@@ -1,0 +1,23 @@
+h1 {
+    background-color: black;
+    color: white;
+    margin: 65px 65px 50px 65px;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+    margin: 50px 65px;
+}
+
+img {
+    margin: 0px 65px;
+}
+
+.ul_and_ol {
+    margin: 50px 65px;
+}
+
+.p_text {
+    margin: 50px 65px;
+}

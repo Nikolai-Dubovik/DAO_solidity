@@ -1,0 +1,58 @@
+h1, p {
+    background-color: #f1eeee;
+}
+
+em, strong {
+    background-color: #29fd2f;
+    display: inline;
+}
+
+h1 {
+    padding: 50px;
+    border-bottom: 1px solid #0b24fb;
+}
+
+p {
+    padding: 20px 0 20px 10px;
+
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+div {
+    color: #FFF;
+    background-color: #4A90E2;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+
+    width: 200px;
+    box-sizing: border-box;
+    margin: 20px auto;
+}
+
+body {
+    text-align: center;
+}
+
+/*p {*/
+/*    padding: 20px 10px; !* Тут сверху и снизу отступ 20px, а слева и справа 10px *!*/
+/*}*/
+
+/*p {*/
+/*    padding: 20px 0 20px 10px; !* Сверху 20px, справа 0, снизу 20px, слева 10px *!*/
+/*}*/
+
+/*h1 {*/
+/*    padding: 30px;*/
+/*    border: 5px;*/
+/*    margin-bottom: 10px;*/
+/*}*/
+
+/*p {*/
+/*    padding-top: 20px;*/
+/*    padding-bottom: 20px;*/
+/*    padding-left: 10px;*/
+/*    padding-right: 10px;*/
+/*}*/
+
