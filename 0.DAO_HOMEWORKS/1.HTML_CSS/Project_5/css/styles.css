@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.site_box {
+    width: 1440px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    height: 140px;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    font-family: 'Arial';
+    background: #FFFFFF;
+    font-size: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    align-items: center;
+    justify-content: space-between;
+    color: #E50043;
+}
+
+.links > li {
+    margin-right: 25px;
+    display: inline;
+}
+
+.links > li > a {
+    color: #E50043;
+}
+
+.hero_block {
+    display: flex;
+    position: relative;
+}
+
+.hero_block_text {
+    position: absolute;
+    font-family: Arial;
+    color: #E50043;
+    font-size: 100px;
+    top: 420px;
+    left: 250px;
+
+}
+
+.block_our_water {
+    display: flex;
+    margin-top: 150px;
+    width: 1040px;
+    border: 3px solid #F8BFC7;
+    border-radius: 20px;
+    font-size: 25px;
+    padding: 24px 24px;
+    font-family: Arial;
+    letter-spacing: 0.05em;
+}
+
+.block_3_bottle {
+    display: flex;
+    width: 1040px;
+    margin-top: 150px;
+    justify-content: space-between;
+}
+
+.water_properties {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    margin-top: 42px;
+    font-family: 'Arial';
+    font-size: 25px;
+}
+
+.water_composition {
+    display: flex;
+    margin-top: 150px;
+    width: 1040px;
+    border: 3px solid #F8BFC7;
+    border-radius: 20px;
+    font-size: 25px;
+    padding: 24px 24px;
+    font-family: Arial;
+    letter-spacing: 0.05em;
+}
+
+.pad_w_c {
+    padding: 30px 80px;
+}
+
+.pad_w_c1 {
+    padding: 30px 30px 30px 0;
+}
+
+.footer {
+    height: 140px;
+    display: flex;
+    margin-top: 150px;
+    width: 100%;
+    justify-content: space-between;
+    background-color: #F8BFC7;
+    color: #FFFFFF;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.footer_text {
+
+    font-size: 50px;
+    font-family: Arial;
+}
+
+
+
+
+
